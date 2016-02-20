@@ -6,5 +6,4 @@ can you find any bugs on this page?
      
 - The page takes a lot of time to load
 
-- When you select the list option, the generated page shows 5 lists, but in the report line it says 5 Paragraphs, but the true in HTML has 10 paragraph elements (<p>), 
-     	for that reason the report line is incorrect, it should say 5 Lists not Paragraphs.
+- When you select the list option, the generated page shows 5 lists, but in the report line it says 5 Paragraphs, but the true in HTML has 10 paragraph elements (<p>), for that reason the report line is incorrect, it should say 5 Lists not Paragraphs.
